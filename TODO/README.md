@@ -13,7 +13,7 @@ A simple and interactive **TODO App** built with JavaScript, HTML, and CSS. Easi
 ---
 
 ## 🖥️ Preview  
-![TODO App Screenshot](https://via.placeholder.com/800x400?text=TODO+App+Preview)  
+![TODO App Screenshot](https://raw.githubusercontent.com/Abhi2701singh/JavaScript_Project/main/TODO/todo%20result.png) 
 
 ---
 
