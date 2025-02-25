@@ -33,16 +33,16 @@ A simple and interactive **TODO App** built with JavaScript, HTML, and CSS. Easi
 3. **Open index.html in your browser**
 
 ---
-## 🛠️ Technologies Used
-**-> HTML, CSS, JavaScript**
-**->Local Storage for data persistence**
+## 🛠️ Technologies Used  
+- **HTML, CSS, JavaScript**  
+- **Local Storage for data persistence**  
 
 ---
 
-## 🎯 How to Use
-1.**Type a task in the input field and click "Add"**
-2.**Click on a task to mark it as completed**
-3.**Click the "Delete" button to remove a task**
+## 🎯 How to Use  
+1. **Type a task in the input field and click "Add"**  
+2. **Click on a task to mark it as completed**  
+3. **Click the "Delete" button to remove a task**  
 
 ---
 
