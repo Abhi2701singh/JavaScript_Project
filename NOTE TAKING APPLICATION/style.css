@@ -14,9 +14,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: flex-start;
+    flex-wrap: wrap;
 }
 
-#addbtn{
+#addBtn{
     position: fixed;
     top: 20px;
     right: 20px;
@@ -39,7 +40,7 @@ body{
     
 }
 
-#addbtn:hover{
+#addBtn:hover{
     background-color: #06a086;
 }
 
